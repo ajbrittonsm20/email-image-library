@@ -3411,6 +3411,445 @@
       "alt": "Golden Drop Earrings in Golden",
       "notes": "Shopify product / handle gold-drop-earrings",
       "added": "2026-07-09"
+    },
+    {
+      "id": "logos",
+      "path": "clients/almond-muse/logos/logos.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/logos/logos.png",
+      "category": "logo",
+      "tags": [
+        "logo",
+        "wordmark",
+        "almond-muse",
+        "brand"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Almond Muse wordmark logo",
+      "notes": "Blush and black wordmark on white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "fonts",
+      "path": "clients/almond-muse/banners/fonts.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/banners/fonts.png",
+      "category": "banner",
+      "tags": [
+        "valentines",
+        "bogo",
+        "promo",
+        "sale",
+        "typography"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Almond Muse Valentine's Edit, buy 2 get 1 free promo",
+      "notes": "Valentine's promo type banner",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "48",
+      "path": "clients/almond-muse/banners/48.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/banners/48.png",
+      "category": "banner",
+      "tags": [
+        "gift-card",
+        "gifting",
+        "burgundy",
+        "satin",
+        "promo"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Almond Muse gift card on burgundy satin",
+      "notes": "Gift card promo",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "99",
+      "path": "clients/almond-muse/banners/99.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/banners/99.png",
+      "category": "banner",
+      "tags": [
+        "black-friday",
+        "sale",
+        "promo",
+        "pink",
+        "satin"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Black Friday pink satin gift bags",
+      "notes": "Black Friday promo",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "149",
+      "path": "clients/almond-muse/heroes/149.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/heroes/149.png",
+      "category": "hero",
+      "tags": [
+        "valentines",
+        "romantic",
+        "pink",
+        "gown",
+        "roses",
+        "floral",
+        "satin"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in pink satin gown reclining on floral couch with roses",
+      "notes": "Valentine's romantic hero",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "129",
+      "path": "clients/almond-muse/heroes/129.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/heroes/129.png",
+      "category": "hero",
+      "tags": [
+        "holiday",
+        "christmas",
+        "gifting",
+        "black",
+        "mini-dress",
+        "burgundy",
+        "gift-box"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in black mini dress beside oversized burgundy gift box",
+      "notes": "Holiday gifting hero",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "62",
+      "path": "clients/almond-muse/heroes/62.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/heroes/62.png",
+      "category": "hero",
+      "tags": [
+        "winter",
+        "holiday",
+        "snow",
+        "white",
+        "luxe",
+        "apres-ski",
+        "fur"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in white dress on alpine balcony with snowy mountains",
+      "notes": "Winter luxe hero",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "288",
+      "path": "clients/almond-muse/heroes/288.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/heroes/288.png",
+      "category": "hero",
+      "tags": [
+        "pink",
+        "gown",
+        "romantic",
+        "spring",
+        "halter",
+        "arches"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in pink halter gown in arched stone corridor",
+      "notes": "Romantic spring hero",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "228",
+      "path": "clients/almond-muse/heroes/228.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/heroes/228.png",
+      "category": "hero",
+      "tags": [
+        "bridal",
+        "wedding",
+        "white",
+        "engagement",
+        "summer",
+        "courtyard"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in white dress seated in olive-tree courtyard",
+      "notes": "Bridal hero",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "eleonora",
+      "path": "clients/almond-muse/heroes/eleonora.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/heroes/eleonora.png",
+      "category": "hero",
+      "tags": [
+        "butter-yellow",
+        "corset",
+        "maxi",
+        "summer",
+        "tuscany",
+        "wedding-guest"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in butter yellow corset maxi dress against Tuscan stone wall",
+      "notes": "Style: Eleonora",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "giovanna",
+      "path": "clients/almond-muse/heroes/giovanna.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/heroes/giovanna.png",
+      "category": "hero",
+      "tags": [
+        "white",
+        "mini",
+        "flowy",
+        "rome",
+        "rooftop",
+        "summer",
+        "vacation"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in white flowy mini dress on a Rome rooftop",
+      "notes": "Style: Giovanna",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "alba",
+      "path": "clients/almond-muse/lifestyle/alba.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/alba.png",
+      "category": "lifestyle",
+      "tags": [
+        "yellow",
+        "halter",
+        "maxi",
+        "mediterranean",
+        "summer",
+        "floral",
+        "vacation"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in yellow halter maxi dress in a flower-lined Mediterranean alley",
+      "notes": "Style: Alba",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "camilla",
+      "path": "clients/almond-muse/lifestyle/camilla.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/camilla.png",
+      "category": "lifestyle",
+      "tags": [
+        "light-blue",
+        "draped",
+        "maxi",
+        "mediterranean",
+        "summer",
+        "elegant"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in light blue draped maxi dress in a stone village alley",
+      "notes": "Style: Camilla",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "chiara",
+      "path": "clients/almond-muse/lifestyle/chiara.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/chiara.png",
+      "category": "lifestyle",
+      "tags": [
+        "white",
+        "halter",
+        "backless",
+        "mini",
+        "summer",
+        "ruffle"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in white backless halter mini dress",
+      "notes": "Style: Chiara",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "giulia",
+      "path": "clients/almond-muse/lifestyle/giulia.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/giulia.png",
+      "category": "lifestyle",
+      "tags": [
+        "polka-dot",
+        "bubble",
+        "mini",
+        "rome",
+        "playful",
+        "black-white",
+        "headscarf"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in black and white polka dot bubble mini dress on a Rome balcony",
+      "notes": "Style: Giulia",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "rosalind",
+      "path": "clients/almond-muse/lifestyle/rosalind.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/rosalind.png",
+      "category": "lifestyle",
+      "tags": [
+        "butter-yellow",
+        "strapless",
+        "maxi",
+        "vintage-car",
+        "summer",
+        "riviera"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in butter yellow strapless dress leaning on a vintage car",
+      "notes": "Style: Rosalind",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "selene",
+      "path": "clients/almond-muse/lifestyle/selene.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/selene.png",
+      "category": "lifestyle",
+      "tags": [
+        "butter-yellow",
+        "strapless",
+        "meadow",
+        "flowers",
+        "spring",
+        "romantic",
+        "picnic"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in butter yellow dress lying in a meadow with a basket of flowers",
+      "notes": "Style: Selene",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "serena",
+      "path": "clients/almond-muse/lifestyle/serena.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/serena.png",
+      "category": "lifestyle",
+      "tags": [
+        "black",
+        "white",
+        "asymmetric",
+        "scarf-neck",
+        "evening",
+        "chic"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in black asymmetric scarf-neck top and white skirt",
+      "notes": "Style: Serena",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "valeria",
+      "path": "clients/almond-muse/lifestyle/valeria.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/valeria.png",
+      "category": "lifestyle",
+      "tags": [
+        "black",
+        "lace",
+        "corset",
+        "maxi",
+        "gown",
+        "evening",
+        "formal"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in black lace corset maxi gown",
+      "notes": "Style: Valeria",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "iris-mini-dress",
+      "path": "clients/almond-muse/lifestyle/iris-mini-dress.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/iris-mini-dress.png",
+      "category": "lifestyle",
+      "tags": [
+        "black",
+        "blazer",
+        "mini",
+        "tailored",
+        "evening",
+        "chic"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in black tailored blazer mini dress",
+      "notes": "Style: Iris",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "238",
+      "path": "clients/almond-muse/lifestyle/238.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/238.png",
+      "category": "lifestyle",
+      "tags": [
+        "pink",
+        "bandage",
+        "mini",
+        "bodycon",
+        "going-out"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Model in pink bandage mini dress",
+      "notes": "Bandage mini",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "263",
+      "path": "clients/almond-muse/lifestyle/263.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/263.png",
+      "category": "lifestyle",
+      "tags": [
+        "gold",
+        "pink",
+        "bandage",
+        "bodycon",
+        "pair",
+        "party"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Two models in gold and pink bandage dresses",
+      "notes": "Bandage pair",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "8",
+      "path": "clients/almond-muse/lifestyle/8.png",
+      "url": "https://cdn.jsdelivr.net/gh/ajbrittonsm20/email-image-library@main/clients/almond-muse/lifestyle/8.png",
+      "category": "lifestyle",
+      "tags": [
+        "white",
+        "mini",
+        "editorial",
+        "playful",
+        "beauty",
+        "pink"
+      ],
+      "width": 896,
+      "height": 1152,
+      "alt": "Editorial shot of model in white mini dress with pink hair rollers",
+      "notes": "Playful editorial",
+      "added": "2026-07-09"
     }
   ]
 }
