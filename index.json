@@ -1,4 +1,9 @@
 {
-  "clients": [],
+  "clients": [
+    {
+      "slug": "almond-muse",
+      "manifest": "clients/almond-muse/manifest.json"
+    }
+  ],
   "shared_manifest": "shared/manifest.json"
 }
