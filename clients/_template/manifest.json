@@ -1,0 +1,8 @@
+{
+  "client": "_template",
+  "brand_rules": [
+    "Example: logo always sits on white background",
+    "Example: hero images are 1200x600"
+  ],
+  "images": []
+}
