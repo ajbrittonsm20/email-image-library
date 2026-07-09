@@ -1,0 +1,3416 @@
+{
+  "client": "almond-muse",
+  "brand_rules": [
+    "Brand palette: blush #FFE9EC, deep red #850914, white #FFFFFF, black #000000 (source: brand color reference).",
+    "Aesthetic: elegant, feminine, Mediterranean/European resort \u2014 occasion and bridal wear.",
+    "Products are named by style (e.g. Charlotte, Francesca, Amara); pair a product image with lifestyle of the same style name when available (match on tags/style name).",
+    "Lifestyle/editorial imagery is 4:5 portrait (896x1152) \u2014 good for hero and full-bleed blocks.",
+    "Product shots come from Shopify CDN and sit on white/neutral backgrounds \u2014 safe on any email background.",
+    "Prefer pairing product colors with complementary palette accents (blush, deep red)."
+  ],
+  "images": [
+    {
+      "id": "product-charlotte-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/11-topaz-sharpen-face-18.png",
+      "category": "product",
+      "tags": [
+        "bridal",
+        "charlotte",
+        "engagement",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "soiree",
+        "summer",
+        "vacation",
+        "wedding",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Charlotte in White maxi dress",
+      "notes": "Shopify product / handle charlotte-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-charlotte-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/3-topaz-sharpen-face-24.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "charlotte",
+        "dinner",
+        "formal",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "soiree",
+        "summer",
+        "vacation",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Charlotte in Butter Yellow maxi dress",
+      "notes": "Shopify product / handle charlotte-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-francesca-baby-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/22-topaz-sharpen-face-8.png",
+      "category": "product",
+      "tags": [
+        "bridal",
+        "brunch",
+        "date-night",
+        "evening",
+        "francesca",
+        "light pink",
+        "sale",
+        "skirt",
+        "summer",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Francesca in Light Pink skirt",
+      "notes": "Shopify product / handle francesca-baby-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-amara-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/17-topaz-sharpen-face-14.png",
+      "category": "product",
+      "tags": [
+        "amara",
+        "cocktail",
+        "dinner",
+        "engagement",
+        "evening",
+        "gold",
+        "gown",
+        "sale",
+        "soiree",
+        "summer",
+        "vacation",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Amara in Gold gown",
+      "notes": "Shopify product / handle amara-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-francesca-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/10-topaz-face-sharpen-2.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "date-night",
+        "evening",
+        "francesca",
+        "pink",
+        "sale",
+        "skirt",
+        "summer",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Francesca in Pink skirt",
+      "notes": "Shopify product / handle francesca-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-francesca-navy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/2-topaz-sharpen-face-25.png",
+      "category": "product",
+      "tags": [
+        "dinner",
+        "evening",
+        "francesca",
+        "navy",
+        "sale",
+        "set",
+        "summer",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Francesca in Navy set",
+      "notes": "Shopify product / handle francesca-navy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ipanema",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/14-topaz-sharpen-face-15.png",
+      "category": "product",
+      "tags": [
+        "beach",
+        "green",
+        "ipanema",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Ipanema in Green set",
+      "notes": "Shopify product / handle ipanema",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ipanema-ivory",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-face-sharpen-5.png",
+      "category": "product",
+      "tags": [
+        "beach",
+        "ipanema",
+        "set",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Ipanema in White set",
+      "notes": "Shopify product / handle ipanema-ivory",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-tropez-navy-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-face-sharpen-4.png",
+      "category": "product",
+      "tags": [
+        "beach",
+        "navy",
+        "summer",
+        "top",
+        "tropez"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Tropez in Navy top",
+      "notes": "Shopify product / handle tropez-navy-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-tropez-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/8-topaz-sharpen-face-16.png",
+      "category": "product",
+      "tags": [
+        "beach",
+        "pink",
+        "summer",
+        "top",
+        "tropez"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Tropez in Pink top",
+      "notes": "Shopify product / handle tropez-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-mikonos-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/55-topaz-sharpen-face-3.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "beach",
+        "mikonos",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Mikonos in Baby Blue set",
+      "notes": "Shopify product / handle mikonos-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-mikonos-black-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/47-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "beach",
+        "black and white",
+        "mikonos",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Mikonos in Black and White set",
+      "notes": "Shopify product / handle mikonos-black-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-athens-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/19-topaz-sharpen-face-14.png",
+      "category": "product",
+      "tags": [
+        "athens",
+        "baby blue",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Athens in Baby Blue set",
+      "notes": "Shopify product / handle athens-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-athens-black-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/29-topaz-sharpen-face-11.png",
+      "category": "product",
+      "tags": [
+        "athens",
+        "black and white",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Athens in Black and White set",
+      "notes": "Shopify product / handle athens-black-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-capri",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/38-topaz-sharpen-face-6.png",
+      "category": "product",
+      "tags": [
+        "capri",
+        "pink",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Capri in Pink set",
+      "notes": "Shopify product / handle capri",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-bali",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/65-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "bali",
+        "pink",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Bali in Pink set",
+      "notes": "Shopify product / handle bali",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-positano",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-sharpen-face-19.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "positano",
+        "summer",
+        "top"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Positano in Butter Yellow top",
+      "notes": "Shopify product / handle positano",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-positano-set",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/11-topaz-sharpen-face-14.png",
+      "category": "product",
+      "tags": [
+        "beach",
+        "butter yellow",
+        "positano set",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Positano Set in Butter Yellow set",
+      "notes": "Shopify product / handle positano-set",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-adrienne-navy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/288.png",
+      "category": "product",
+      "tags": [
+        "adrienne",
+        "date-night",
+        "dinner",
+        "engagement",
+        "evening",
+        "formal",
+        "gala",
+        "maxi",
+        "maxi dress",
+        "navy",
+        "sale",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Adrienne in Navy maxi dress",
+      "notes": "Shopify product / handle adrienne-navy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-adrienne-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/198_d55de1a5-e8ce-4b23-b2c4-c3b5ca531512.png",
+      "category": "product",
+      "tags": [
+        "adrienne",
+        "bridal",
+        "date-night",
+        "dinner",
+        "engagement",
+        "formal",
+        "graduation",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Adrienne in White maxi dress",
+      "notes": "Shopify product / handle adrienne-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-adrienne-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/212.png",
+      "category": "product",
+      "tags": [
+        "adrienne",
+        "date-night",
+        "dinner",
+        "engagement",
+        "evening",
+        "formal",
+        "maxi",
+        "maxi dress",
+        "pink",
+        "sale",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Adrienne in Pink maxi dress",
+      "notes": "Shopify product / handle adrienne-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-mini-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/270.png",
+      "category": "product",
+      "tags": [
+        "blush pink",
+        "brunch",
+        "date-night",
+        "eleonora",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Blush Pink mini dress",
+      "notes": "Shopify product / handle eleonora-mini-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-mini-butter-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/281.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "butter yellow",
+        "date-night",
+        "eleonora",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Butter Yellow mini dress",
+      "notes": "Shopify product / handle eleonora-mini-butter-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-alessandra-maxi-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/188.png",
+      "category": "product",
+      "tags": [
+        "alessandra",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "yellow"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Alessandra in Yellow maxi dress",
+      "notes": "Shopify product / handle alessandra-maxi-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-nefertiti-maxi-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/249_3d8bd739-0f3c-4a81-a47f-b9f149f22ab5.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "celeste",
+        "dinner",
+        "engagement",
+        "evening",
+        "formal",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "summer",
+        "vacation",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Celeste in Butter Yellow maxi dress",
+      "notes": "Shopify product / handle nefertiti-maxi-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-nefertiti-maxi-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/259.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "celeste",
+        "dinner",
+        "engagement",
+        "evening",
+        "formal",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "summer",
+        "vacation",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Celeste in Baby Blue maxi dress",
+      "notes": "Shopify product / handle nefertiti-maxi-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-nefertiti-mini-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/242_45b3709a-707f-43ad-a060-cb3ea5983108.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "celeste",
+        "cocktail",
+        "dinner",
+        "engagement",
+        "mini",
+        "mini dress",
+        "sale",
+        "summer",
+        "vacation"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Celeste in Butter Yellow mini dress",
+      "notes": "Shopify product / handle nefertiti-mini-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-arabella",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/184_b74b675e-d789-4d7b-8180-2601c59c1a1b.png",
+      "category": "product",
+      "tags": [
+        "arabella",
+        "dinner",
+        "engagement",
+        "evening",
+        "formal",
+        "green",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "summer",
+        "vacation",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Arabella in Green maxi dress",
+      "notes": "Shopify product / handle arabella",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ariel-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/167.png",
+      "category": "product",
+      "tags": [
+        "ariel",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Ariel in White maxi dress",
+      "notes": "Shopify product / handle ariel-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ariel-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/Ariel-Maxi-Pink_5_ed78c4b8-5088-41c2-a668-4d48dbb7f744.png",
+      "category": "product",
+      "tags": [
+        "ariel",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "pink",
+        "sale"
+      ],
+      "width": 3712,
+      "height": 4608,
+      "alt": "Ariel in Pink maxi dress",
+      "notes": "Shopify product / handle ariel-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena-maxi-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/227.png",
+      "category": "product",
+      "tags": [
+        "dinner",
+        "formal",
+        "gown",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Serena in White gown",
+      "notes": "Shopify product / handle serena-maxi-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/NEW_4_95f78bd3-8137-4a8d-ac5c-cb6bcfd24867.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "dinner",
+        "formal",
+        "gown",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3712,
+      "height": 4608,
+      "alt": "Serena in Baby Blue gown",
+      "notes": "Shopify product / handle serena-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/234_7cb0bdf7-32c8-4872-9da9-da03911dd68b.png",
+      "category": "product",
+      "tags": [
+        "dinner",
+        "formal",
+        "gown",
+        "pink",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Serena in Pink gown",
+      "notes": "Shopify product / handle serena-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-the-ashanti-mini-gold",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/67_86a46be2-7a85-4643-88cc-468e5c7c27f3.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "dinner",
+        "evening",
+        "gold",
+        "holiday",
+        "the ashanti"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "The Ashanti in Gold",
+      "notes": "Shopify product / handle the-ashanti-mini-gold",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-the-beyonce-midi-gold",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/30_98202b47-42f3-488b-860c-84f447000dc1.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "dinner",
+        "gold",
+        "the beyonc\u00e9"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "The Beyonc\u00e9 in Gold",
+      "notes": "Shopify product / handle the-beyonce-midi-gold",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-the-beyonce-mini-gold",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/121_9bd34940-4ab5-4525-ac8c-9b9325c2df96.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "dinner",
+        "gold",
+        "the beyonc\u00e9"
+      ],
+      "width": 2400,
+      "height": 3000,
+      "alt": "The Beyonc\u00e9 in Gold",
+      "notes": "Shopify product / handle the-beyonce-mini-gold",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-the-beyonce-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/128_5044e2b5-0e51-4550-8003-ca0d6c8538c7.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "evening",
+        "holiday",
+        "pink",
+        "the beyonc\u00e9"
+      ],
+      "width": 2400,
+      "height": 3000,
+      "alt": "The Beyonc\u00e9 in Pink",
+      "notes": "Shopify product / handle the-beyonce-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-the-beyonce-olive",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/90_5ec4a2ac-0e24-4002-a4e9-fa3aadd1f0c7.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "dinner",
+        "evening",
+        "holiday",
+        "olive",
+        "the beyonc\u00e9"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "The Beyonc\u00e9 in Olive",
+      "notes": "Shopify product / handle the-beyonce-olive",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-the-kelly-midi-brown",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/131-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "brown",
+        "cocktail",
+        "dinner",
+        "the kelly"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "The Kelly in Brown",
+      "notes": "Shopify product / handle the-kelly-midi-brown",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-product-the-ciara-mini-gold",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/81_95e56655-aad3-4296-ab4f-a8159de71f85.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "dinner",
+        "gold",
+        "the ciara"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "The Ciara in Gold",
+      "notes": "Shopify product / handle product-the-ciara-mini-gold",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-the-ashanti-maxi-gold",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/54_6e1ae8c6-08da-487f-afe8-ae267f668fb4.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "dinner",
+        "gold",
+        "the ashanti"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "The Ashanti in Gold",
+      "notes": "Shopify product / handle the-ashanti-maxi-gold",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurora-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/11-topaz-sharpen-face-12.png",
+      "category": "product",
+      "tags": [
+        "aurora",
+        "brunch",
+        "date-night",
+        "evening",
+        "sale",
+        "set",
+        "summer",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurora in White set",
+      "notes": "Shopify product / handle aurora-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/2-topaz-sharpen-face-24.png",
+      "category": "product",
+      "tags": [
+        "bridal",
+        "date-night",
+        "dinner",
+        "engagement",
+        "graduation",
+        "rosalind",
+        "sale",
+        "set",
+        "wedding",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in White set",
+      "notes": "Shopify product / handle rosalind-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-ivory",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/2-topaz-sharpen-face-23.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "date-night",
+        "eleonora",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale",
+        "summer",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in White mini dress",
+      "notes": "Shopify product / handle eleonora-ivory",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-maxi-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/65-topaz-sharpen-face-2_84c41193-e990-4f13-a2de-c6f4c5a94b9c.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "dinner",
+        "eleonora",
+        "engagement",
+        "evening",
+        "gown",
+        "sale",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Baby Blue gown",
+      "notes": "Shopify product / handle eleonora-maxi-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-alba-butter-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/41-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "alba",
+        "butter yellow",
+        "dinner",
+        "evening",
+        "holiday",
+        "sale",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Alba in Butter Yellow set",
+      "notes": "Shopify product / handle alba-butter-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-butter-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/13-topaz-sharpen-face-15.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "date-night",
+        "dinner",
+        "rosalind",
+        "sale",
+        "set",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Butter Yellow set",
+      "notes": "Shopify product / handle rosalind-butter-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-butter-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/27-topaz-sharpen-face-10.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "dinner",
+        "eleonora",
+        "engagement",
+        "evening",
+        "gown",
+        "sale",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Butter Yellow gown",
+      "notes": "Shopify product / handle eleonora-butter-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena-butter-yelllow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/2-topaz-sharpen-face-22.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "dinner",
+        "formal",
+        "gown",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Serena in Butter Yellow gown",
+      "notes": "Shopify product / handle serena-butter-yelllow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/295-topaz-sharpen-face_5e3b6585-6604-4b20-9213-2463e4043ce2.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Baby Blue midi dress",
+      "notes": "Shopify product / handle selene-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/13-topaz-sharpen-face-14.png",
+      "category": "product",
+      "tags": [
+        "black and white",
+        "dinner",
+        "evening",
+        "formal",
+        "gala",
+        "gown",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Serena in Black and White gown",
+      "notes": "Shopify product / handle serena-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-giulia",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/33-topaz-sharpen-face-6.png",
+      "category": "product",
+      "tags": [
+        "black and white",
+        "brunch",
+        "date-night",
+        "giulia",
+        "mini",
+        "mini dress",
+        "sale",
+        "summer",
+        "vacation"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Giulia in Black and White mini dress",
+      "notes": "Shopify product / handle giulia",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-giovanna-cream",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/76-topaz-sharpen-face_35d30f2c-8bc6-4146-88e9-22c7a5d4b71e.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "cream",
+        "dinner",
+        "evening",
+        "giovanna",
+        "holiday",
+        "mini",
+        "mini dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Giovanna in Cream mini dress",
+      "notes": "Shopify product / handle giovanna-cream",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-valeria-burgundy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/60-topaz-sharpen-face-3.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "valeria"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Valeria in Burgundy maxi dress",
+      "notes": "Shopify product / handle valeria-burgundy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-valeria-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/56-topaz-sharpen-face-3.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "valeria"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Valeria in Black maxi dress",
+      "notes": "Shopify product / handle valeria-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena-blackwhite",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/13-topaz-sharpen-face-14.png",
+      "category": "product",
+      "tags": [
+        "black and white",
+        "dinner",
+        "evening",
+        "formal",
+        "gala",
+        "gown",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Serena in Black and White gown",
+      "notes": "Shopify product / handle serena-blackwhite",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-chiara-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/43-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "chiara",
+        "cocktail",
+        "dinner",
+        "sale",
+        "set",
+        "summer",
+        "vacation"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Chiara in Baby Blue set",
+      "notes": "Shopify product / handle chiara-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-camilla-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-face-sharpen-3.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "camilla",
+        "dinner",
+        "evening",
+        "formal",
+        "gown",
+        "sale",
+        "soiree",
+        "summer",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Camilla in Baby Blue gown",
+      "notes": "Shopify product / handle camilla-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-iris-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/28-topaz-sharpen-face-9.png",
+      "category": "product",
+      "tags": [
+        "dinner",
+        "engagement",
+        "evening",
+        "iris",
+        "mini",
+        "mini dress",
+        "sale",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Iris in White mini dress",
+      "notes": "Shopify product / handle iris-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-iris-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/13-topaz-sharpen-face-10_fb531e6e-db66-41b5-ac11-ea146dafb85b.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "dinner",
+        "engagement",
+        "evening",
+        "iris",
+        "mini",
+        "mini dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Iris in Black mini dress",
+      "notes": "Shopify product / handle iris-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-jade-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/35-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "brunch",
+        "date-night",
+        "dinner",
+        "jade",
+        "sale",
+        "top"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Jade in Black top",
+      "notes": "Shopify product / handle jade-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-jade-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/17-topaz-sharpen-face-8.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "date-night",
+        "dinner",
+        "jade",
+        "sale",
+        "top",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Jade in White top",
+      "notes": "Shopify product / handle jade-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/52.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "pink",
+        "rosalind",
+        "sale",
+        "set",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Pink set",
+      "notes": "Shopify product / handle rosalind-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-francesca-midi-dress-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/31-topaz-sharpen-face-5_655b1667-88b1-495a-9b01-5ad08a850804.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "date-night",
+        "dinner",
+        "francesca",
+        "sale",
+        "skirt",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Francesca in Black skirt",
+      "notes": "Shopify product / handle francesca-midi-dress-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena-red",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/4-topaz-sharpen-face-14_73295231-74c2-4538-859c-20b61a102d6c.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "formal",
+        "maxi",
+        "maxi dress",
+        "red",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Serena in Red maxi dress",
+      "notes": "Shopify product / handle serena-red",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-red",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/21-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "date-night",
+        "dinner",
+        "eleonora",
+        "evening",
+        "mini",
+        "mini dress",
+        "red",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Red mini dress",
+      "notes": "Shopify product / handle eleonora-red",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/17-topaz-sharpen-face-6.png",
+      "category": "product",
+      "tags": [
+        "bridal",
+        "dinner",
+        "eleonora",
+        "engagement",
+        "evening",
+        "gown",
+        "sale",
+        "soiree",
+        "wedding",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in White gown",
+      "notes": "Shopify product / handle eleonora-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-gift-card",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/Design_sem_nome_40.png",
+      "category": "product",
+      "tags": [
+        "$25",
+        "e-gift card",
+        "sale"
+      ],
+      "width": 1200,
+      "height": 1500,
+      "alt": "E-Gift Card in $25",
+      "notes": "Shopify product / handle gift-card",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/351-topaz-sharpen-face_1a0686a2-f44a-492a-adba-5a5bec9ee785.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in White midi dress",
+      "notes": "Shopify product / handle selene",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-copy-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/FOTOSSITE_41_eacf6bd5-c3af-42b0-8261-7312ee1ea1e2.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "date-night",
+        "rosalind",
+        "sale",
+        "set",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Black set",
+      "notes": "Shopify product / handle rosalind-copy-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-valentina-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/27-topaz-sharpen-face-3.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "cocktail",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale",
+        "valentina"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Valentina in Burgundy mini dress",
+      "notes": "Shopify product / handle valentina-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/29-topaz-sharpen-face-5.png",
+      "category": "product",
+      "tags": [
+        "dinner",
+        "eleonora",
+        "engagement",
+        "evening",
+        "gala",
+        "gown",
+        "onyx",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Onyx gown",
+      "notes": "Shopify product / handle eleonora-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/14-topaz-face-sharpen_055d463b-bae8-433c-8e3a-545602f017e1.png",
+      "category": "product",
+      "tags": [
+        "brown",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "eleonora",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Brown mini dress",
+      "notes": "Shopify product / handle eleonora-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-copy-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/25-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "cherry",
+        "cocktail",
+        "dinner",
+        "isabella",
+        "mini",
+        "mini dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Cherry mini dress",
+      "notes": "Shopify product / handle isabella-copy-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurea-as",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/8-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "aurea",
+        "dinner",
+        "gold",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurea in Gold maxi dress",
+      "notes": "Shopify product / handle aurea-as",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-sapphire",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/13-topaz-sharpen-face-5.png",
+      "category": "product",
+      "tags": [
+        "dark blue",
+        "date-night",
+        "dinner",
+        "engagement",
+        "evening",
+        "gala",
+        "gown",
+        "sale",
+        "sapphire",
+        "soiree",
+        "vacation"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Sapphire in Dark Blue gown",
+      "notes": "Shopify product / handle sapphire",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-jasmine",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/54-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "chocolate",
+        "dinner",
+        "engagement",
+        "evening",
+        "gala",
+        "gown",
+        "jasmine",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Jasmine in Chocolate gown",
+      "notes": "Shopify product / handle jasmine",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/3-topaz-sharpen-face-11.png",
+      "category": "product",
+      "tags": [
+        "chocolate",
+        "dinner",
+        "eleonora",
+        "engagement",
+        "evening",
+        "gala",
+        "gown",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Chocolate gown",
+      "notes": "Shopify product / handle eleonora-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/29-topaz-sharpen-face-5.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "dinner",
+        "eleonora",
+        "engagement",
+        "evening",
+        "gala",
+        "gown",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Black gown",
+      "notes": "Shopify product / handle eleonora-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-mini-champagne",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/30-topaz-sharpen-face-3.png",
+      "category": "product",
+      "tags": [
+        "cocktail",
+        "dinner",
+        "gold",
+        "isabella",
+        "mini",
+        "mini dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Gold mini dress",
+      "notes": "Shopify product / handle isabella-mini-champagne",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/23-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "eleonora",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Black mini dress",
+      "notes": "Shopify product / handle eleonora",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-eleonora-brown",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/14-topaz-face-sharpen.png",
+      "category": "product",
+      "tags": [
+        "chocolate",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "eleonora",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Eleonora in Chocolate mini dress",
+      "notes": "Shopify product / handle eleonora-brown",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-vittoria-brown",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-sharpen-face-8.png",
+      "category": "product",
+      "tags": [
+        "brown",
+        "dinner",
+        "engagement",
+        "evening",
+        "gala",
+        "maxi",
+        "maxi dress",
+        "vittoria"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Vittoria in Brown maxi dress",
+      "notes": "Shopify product / handle vittoria-brown",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-bella",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/13-topaz-sharpen-face-3.png",
+      "category": "product",
+      "tags": [
+        "bella",
+        "date-night",
+        "dinner",
+        "holiday",
+        "mini",
+        "mini dress",
+        "sale",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Bella in White mini dress",
+      "notes": "Shopify product / handle bella",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-bella-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-sharpen-face-7.png",
+      "category": "product",
+      "tags": [
+        "bella",
+        "black",
+        "date-night",
+        "dinner",
+        "mini",
+        "mini dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Bella in Black mini dress",
+      "notes": "Shopify product / handle bella-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurea-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/16-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "aurea",
+        "burgundy",
+        "dinner",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurea in Burgundy maxi dress",
+      "notes": "Shopify product / handle aurea-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurea-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/4-topaz-sharpen-face-9.png",
+      "category": "product",
+      "tags": [
+        "aurea",
+        "black",
+        "dinner",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurea in Black maxi dress",
+      "notes": "Shopify product / handle aurea-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/8-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "aurea",
+        "dinner",
+        "gold",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurea in Gold maxi dress",
+      "notes": "Shopify product / handle isabella-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-lumina-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/10-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "cream",
+        "formal",
+        "gala",
+        "gown",
+        "lumina",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Lumina in Cream gown",
+      "notes": "Shopify product / handle lumina-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-mini-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/33-topaz-sharpen-face_bfbd83aa-764a-4afb-a350-c42ca3028a7e.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "cocktail",
+        "dinner",
+        "isabella",
+        "mini",
+        "mini dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Black mini dress",
+      "notes": "Shopify product / handle isabella-mini-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-mini-wine",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/25-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "cocktail",
+        "dinner",
+        "isabella",
+        "mini",
+        "mini dress",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Burgundy mini dress",
+      "notes": "Shopify product / handle isabella-mini-wine",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-lumina",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/2-topaz-sharpen-face-9.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "formal",
+        "gala",
+        "gown",
+        "lumina",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Lumina in Black gown",
+      "notes": "Shopify product / handle lumina",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ariel",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/188-topaz-sharpen-face_9f74d063-e833-4742-a6c5-7afe660d8161.png",
+      "category": "product",
+      "tags": [
+        "ariel",
+        "brown",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Ariel in Brown maxi dress",
+      "notes": "Shopify product / handle ariel",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-alessandra-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-face.png",
+      "category": "product",
+      "tags": [
+        "alessandra",
+        "maxi",
+        "maxi dress",
+        "red",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Alessandra in Red maxi dress",
+      "notes": "Shopify product / handle alessandra-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/14-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "rosalind",
+        "sale",
+        "set",
+        "smoke",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Smoke set",
+      "notes": "Shopify product / handle rosalind-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-valentina-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/2-topaz-sharpen-face-4.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "cocktail",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale",
+        "valentina"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Valentina in Black mini dress",
+      "notes": "Shopify product / handle valentina-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-sharpen-face-16.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "date-night",
+        "rosalind",
+        "sale",
+        "set",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Burgundy set",
+      "notes": "Shopify product / handle rosalind",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/13-topaz-sharpen-face-11_bdf38fef-6ea0-4199-ba39-dafa1ea848eb.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "forest green",
+        "rosalind",
+        "sale",
+        "set",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Forest Green set",
+      "notes": "Shopify product / handle rosalind-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-burgundy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-face-sharpen.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Burgundy midi dress",
+      "notes": "Shopify product / handle selene-burgundy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-serena",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/FOTOSSITE_27_-topaz-face-sharpen-2.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "dinner",
+        "formal",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "serena",
+        "soiree",
+        "wedding"
+      ],
+      "width": 1200,
+      "height": 1500,
+      "alt": "Serena in Burgundy maxi dress",
+      "notes": "Shopify product / handle serena",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurora-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/218-topaz-sharpen-face_0e140470-c144-4ba2-a317-bec574ae1426.png",
+      "category": "product",
+      "tags": [
+        "aurora",
+        "brunch",
+        "date-night",
+        "evening",
+        "red",
+        "sale",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurora in Red set",
+      "notes": "Shopify product / handle aurora-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-francesca-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/111_ca29ee7f-1168-4a4c-b584-12966a4466da.jpg",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "francesca",
+        "pink",
+        "sale",
+        "skirt",
+        "summer"
+      ],
+      "width": 1200,
+      "height": 1500,
+      "alt": "Francesca in Pink skirt",
+      "notes": "Shopify product / handle francesca-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/45-topaz-sharpen-face_2c6a5294-c6cf-4461-8e54-7acd8370710c.png",
+      "category": "product",
+      "tags": [
+        "gala",
+        "gold",
+        "isabella",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Gold",
+      "notes": "Shopify product / handle isabella-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-alessandra-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/12-topaz-sharpen-face-9_ba1da2de-2d47-425e-ade9-811a91eed191.png",
+      "category": "product",
+      "tags": [
+        "alessandra",
+        "black",
+        "maxi",
+        "maxi dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Alessandra in Black maxi dress",
+      "notes": "Shopify product / handle alessandra-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ariel-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/6-topaz-sharpen-face-denoise-2_1.png",
+      "category": "product",
+      "tags": [
+        "ariel",
+        "burgundy",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Ariel in Burgundy maxi dress",
+      "notes": "Shopify product / handle ariel-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-copy-4",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/247-topaz-sharpen-face_ac73b260-850d-4b96-8030-9cec5f07235d.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Butter Yellow midi dress",
+      "notes": "Shopify product / handle selene-copy-4",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-malu-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/27-topaz-sharpen-face-2_50fd0589-78be-42ba-b80c-1b15d60fbe23.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "brunch",
+        "date-night",
+        "dinner",
+        "malu",
+        "sale",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Malu in Baby Blue set",
+      "notes": "Shopify product / handle malu-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-vanessa-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/21-topaz-sharpen-face-2_a14c0e2e-9fde-48d4-95f1-0ee2700f77fd.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "evening",
+        "formal",
+        "gala",
+        "sale",
+        "skirt",
+        "vanessa"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Vanessa in Burgundy skirt",
+      "notes": "Shopify product / handle vanessa-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1-topaz-sharpen-face-13_f53ee781-4e86-4e74-80ef-d38a66b3d581.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "pink",
+        "rosalind",
+        "sale",
+        "set",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Pink set",
+      "notes": "Shopify product / handle rosalind-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-body-snatch",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/39_ff0bc971-89b2-4c9b-b0f0-0a5f8f5fe46e.png",
+      "category": "product",
+      "tags": [
+        "brown",
+        "sale"
+      ],
+      "width": 1200,
+      "height": 1500,
+      "alt": "Snatched Shapewear Bodysuit in Brown",
+      "notes": "Shopify product / handle body-snatch",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-shipping-protection-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1868fd54898b561a7f53fa48f1b153ce.png",
+      "category": "product",
+      "tags": [
+        "*3.99",
+        "sale",
+        "shipping protection"
+      ],
+      "width": 1080,
+      "height": 1080,
+      "alt": "Shipping Protection in *3.99",
+      "notes": "Shopify product / handle shipping-protection-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-cleopatra-midi-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/32_8fd661ef-b068-4400-b514-7e20fa0f18cc.png",
+      "category": "product",
+      "tags": [
+        "cleopatra",
+        "cocktail",
+        "dinner",
+        "golden",
+        "sale"
+      ],
+      "width": 3300,
+      "height": 4125,
+      "alt": "Cleopatra in Golden",
+      "notes": "Shopify product / handle cleopatra-midi-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ariel-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/20_6ade9edf-1240-41ad-b953-04474144bab6.png",
+      "category": "product",
+      "tags": [
+        "ariel",
+        "black",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "sale"
+      ],
+      "width": 3300,
+      "height": 4125,
+      "alt": "Ariel in Black maxi dress",
+      "notes": "Shopify product / handle ariel-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ariel-burgundy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/6-topaz-sharpen-face-denoise-2.png",
+      "category": "product",
+      "tags": [
+        "ariel",
+        "burgundy",
+        "evening",
+        "maxi",
+        "maxi dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Ariel in Burgundy maxi dress",
+      "notes": "Shopify product / handle ariel-burgundy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-core-sculpt-high-waisted-thong-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/4_eb3401eb-c7cf-4287-a2fe-e7b105956ce4.png",
+      "category": "product",
+      "tags": [
+        "beige",
+        "high-waisted thong",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "High-Waisted Thong in Beige",
+      "notes": "Shopify product / handle core-sculpt-high-waisted-thong-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-snatched-shapewear-bodysuit-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/9_1d10d560-20d8-45b4-8a82-6a5f67d13ad0.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "high-waisted thong",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "High-Waisted Thong in Black",
+      "notes": "Shopify product / handle snatched-shapewear-bodysuit-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-snatched-shapewear-bodysuit-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/30_76f36c31-e444-4c7b-90ec-16319ab6bad1.png",
+      "category": "product",
+      "tags": [
+        "beige",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Snatched Shapewear Bodysuit in Beige",
+      "notes": "Shopify product / handle snatched-shapewear-bodysuit-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-snatched-shapewear-bodysuit",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/20_bd1f4f28-638a-4481-90d3-caec87b671f3.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Snatched Shapewear Bodysuit in Black",
+      "notes": "Shopify product / handle snatched-shapewear-bodysuit",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-alessandra-off-shoulder-maxi-dress-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/89-topaz-face-upscale-2.6x.png",
+      "category": "product",
+      "tags": [
+        "alessandra",
+        "maxi",
+        "maxi dress",
+        "sale",
+        "white"
+      ],
+      "width": 3095,
+      "height": 3869,
+      "alt": "Alessandra in White maxi dress",
+      "notes": "Shopify product / handle alessandra-off-shoulder-maxi-dress-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-nipple-covers-almond",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/22_95fdc798-06d0-4d1e-a6ae-c81b0dbd16fe.png",
+      "category": "product",
+      "tags": [
+        "beige",
+        "nipple covers",
+        "sale"
+      ],
+      "width": 2240,
+      "height": 2880,
+      "alt": "Nipple Covers in Beige",
+      "notes": "Shopify product / handle nipple-covers-almond",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurora-midi-dress-dark-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/224-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "aurora",
+        "brunch",
+        "dark blue",
+        "date-night",
+        "evening",
+        "sale",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurora in Dark Blue set",
+      "notes": "Shopify product / handle aurora-midi-dress-dark-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurora-midi-dress-red",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/218-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "aurora",
+        "brunch",
+        "date-night",
+        "evening",
+        "red",
+        "sale",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurora in Red set",
+      "notes": "Shopify product / handle aurora-midi-dress-red",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-francesca-midi-dress-red",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/15-topaz-sharpen-face-8.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "francesca",
+        "red",
+        "sale",
+        "skirt",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Francesca in Red skirt",
+      "notes": "Shopify product / handle francesca-midi-dress-red",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-vanessa-maxi-dress-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/103-topaz-sharpen-face-denoise.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "evening",
+        "formal",
+        "gala",
+        "sale",
+        "skirt",
+        "vanessa"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Vanessa in Black skirt",
+      "notes": "Shopify product / handle vanessa-maxi-dress-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-midi-dress-forest-green",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/373-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "forest green",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Forest Green midi dress",
+      "notes": "Shopify product / handle selene-midi-dress-forest-green",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-alessandra-maxi-dress-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/12-topaz-sharpen-face-9.png",
+      "category": "product",
+      "tags": [
+        "alessandra",
+        "black",
+        "maxi",
+        "maxi dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Alessandra in Black maxi dress",
+      "notes": "Shopify product / handle alessandra-maxi-dress-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-wells-flower-clutch-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/14_6a3e040d-3391-48af-8509-56d0caa91adb.png",
+      "category": "product",
+      "tags": [
+        "default title",
+        "formal",
+        "sale",
+        "wells flower clutch"
+      ],
+      "width": 1200,
+      "height": 1500,
+      "alt": "Wells Flower Clutch in Default Title",
+      "notes": "Shopify product / handle wells-flower-clutch-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-ariel-gold-clutch-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/12_e7d957be-fbe5-4976-ac0c-3ab50c644372.png",
+      "category": "product",
+      "tags": [
+        "ariel gold clutch",
+        "beach",
+        "default title",
+        "evening",
+        "sale",
+        "summer"
+      ],
+      "width": 1200,
+      "height": 1500,
+      "alt": "Ariel Gold Clutch in Default Title",
+      "notes": "Shopify product / handle ariel-gold-clutch-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-malu-red",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/17-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "date-night",
+        "dinner",
+        "malu",
+        "red",
+        "sale",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Malu in Red set",
+      "notes": "Shopify product / handle malu-red",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-shipping-protection-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/Designsemnome_1.webp",
+      "category": "product",
+      "tags": [
+        "*3.95",
+        "sale",
+        "shipping protection"
+      ],
+      "width": 3375,
+      "height": 3375,
+      "alt": "Shipping Protection in *3.95",
+      "notes": "Shopify product / handle shipping-protection-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-shipping-protection",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/Designsemnome_1_1_0546a258-4251-4169-a362-2f000540cf67.png",
+      "category": "product",
+      "tags": [
+        "*3.95",
+        "sale",
+        "shipping protection"
+      ],
+      "width": 1080,
+      "height": 1080,
+      "alt": "Shipping Protection in *3.95",
+      "notes": "Shopify product / handle shipping-protection",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-malu-maxi-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/9-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "brunch",
+        "date-night",
+        "dinner",
+        "malu",
+        "sale",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Malu in Black set",
+      "notes": "Shopify product / handle malu-maxi-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-mini-dress-3",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/92-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "blush pink",
+        "date-night",
+        "dinner",
+        "sale",
+        "selene",
+        "skirt"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Blush Pink skirt",
+      "notes": "Shopify product / handle selene-mini-dress-3",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-mini-dress-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/91-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "date-night",
+        "dinner",
+        "sale",
+        "selene",
+        "skirt"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Black skirt",
+      "notes": "Shopify product / handle selene-mini-dress-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-midi-dress-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/Faceswap_vohaui05g3o3-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "butter yellow",
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Butter Yellow midi dress",
+      "notes": "Shopify product / handle selene-midi-dress-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurora-mini-dress-2",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/209-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "aurora",
+        "brunch",
+        "date-night",
+        "evening",
+        "light yellow",
+        "sale",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurora in Light Yellow set",
+      "notes": "Shopify product / handle aurora-mini-dress-2",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-aurora-mini-dress-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/236-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "aurora",
+        "brunch",
+        "date-night",
+        "evening",
+        "pink",
+        "sale",
+        "set",
+        "summer"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Aurora in Pink set",
+      "notes": "Shopify product / handle aurora-mini-dress-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-mini-dress-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/106-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "cream",
+        "date-night",
+        "dinner",
+        "sale",
+        "selene",
+        "skirt"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Cream skirt",
+      "notes": "Shopify product / handle selene-mini-dress-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-mini-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/100-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "date-night",
+        "dinner",
+        "sale",
+        "selene",
+        "skirt"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Baby Blue skirt",
+      "notes": "Shopify product / handle selene-mini-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-siena-maxi-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/91-topaz-sharpen-face_d73b17d4-0127-4b4d-a154-49779cb50934.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "date-night",
+        "dinner",
+        "prom",
+        "sale",
+        "siena",
+        "skirt",
+        "summer",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Siena in Baby Blue skirt",
+      "notes": "Shopify product / handle siena-maxi-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-francesca-midi-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/44-topaz-sharpen-face-2_a9b7a5a0-fe6e-4d83-9915-d727224d792e.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "francesca",
+        "sale",
+        "skirt",
+        "summer",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Francesca in White skirt",
+      "notes": "Shopify product / handle francesca-midi-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-midi-dress-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/14-topaz-face-sharpen-2.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in White midi dress",
+      "notes": "Shopify product / handle selene-midi-dress-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-malu-burgundy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/26-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "burgundy",
+        "date-night",
+        "dinner",
+        "malu",
+        "sale",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Malu in Burgundy set",
+      "notes": "Shopify product / handle malu-burgundy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-malu-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/34-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "date-night",
+        "dinner",
+        "malu",
+        "pink",
+        "sale",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Malu in Pink set",
+      "notes": "Shopify product / handle malu-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-malu-baby-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/25-topaz-face-sharpen.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "brunch",
+        "date-night",
+        "dinner",
+        "malu",
+        "sale",
+        "set"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Malu in Baby Blue set",
+      "notes": "Shopify product / handle malu-baby-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-luna-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/188-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "date-night",
+        "dinner",
+        "luna",
+        "mini",
+        "mini dress",
+        "sale",
+        "white"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Luna in White mini dress",
+      "notes": "Shopify product / handle luna-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-luna-red",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/202-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "date-night",
+        "dinner",
+        "luna",
+        "mini",
+        "mini dress",
+        "red",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Luna in Red mini dress",
+      "notes": "Shopify product / handle luna-red",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-luna-dark-blue",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/185-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "brunch",
+        "dark blue",
+        "date-night",
+        "dinner",
+        "luna",
+        "mini",
+        "mini dress",
+        "sale"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Luna in Dark Blue mini dress",
+      "notes": "Shopify product / handle luna-dark-blue",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-amalfi-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/54-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "amalfi",
+        "black",
+        "date-night",
+        "prom",
+        "sale",
+        "skirt",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Amalfi in Black skirt",
+      "notes": "Shopify product / handle amalfi-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-amalfi-white",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/62-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "amalfi",
+        "date-night",
+        "prom",
+        "red",
+        "sale",
+        "skirt",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Amalfi in Red skirt",
+      "notes": "Shopify product / handle amalfi-white",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-amalfi-yellow",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/67-topaz-sharpen-face_27c6ab7c-058b-49e0-babc-fce875abed87.png",
+      "category": "product",
+      "tags": [
+        "amalfi",
+        "date-night",
+        "light yellow",
+        "prom",
+        "sale",
+        "skirt",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Amalfi in Light Yellow skirt",
+      "notes": "Shopify product / handle amalfi-yellow",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-amalfi-violet",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/73-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "amalfi",
+        "date-night",
+        "prom",
+        "sale",
+        "skirt",
+        "violet",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Amalfi in Violet skirt",
+      "notes": "Shopify product / handle amalfi-violet",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-amalfi-pink",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/79-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "amalfi",
+        "date-night",
+        "pink",
+        "prom",
+        "sale",
+        "skirt",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Amalfi in Pink skirt",
+      "notes": "Shopify product / handle amalfi-pink",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-midi-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/291-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "baby blue",
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Baby Blue midi dress",
+      "notes": "Shopify product / handle selene-midi-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-maxi-dress-copy-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/57-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "gala",
+        "isabella",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Black",
+      "notes": "Shopify product / handle isabella-maxi-dress-copy-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-maxi-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/45-topaz-sharpen-face_2c6a5294-c6cf-4461-8e54-7acd8370710c.png",
+      "category": "product",
+      "tags": [
+        "gala",
+        "gold",
+        "isabella",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Gold",
+      "notes": "Shopify product / handle isabella-maxi-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-isabella-maxi-dress-copy",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/49-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "gala",
+        "isabella",
+        "sale",
+        "soiree"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Isabella in Burgundy",
+      "notes": "Shopify product / handle isabella-maxi-dress-copy",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-maxi-dress-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/FOTOSSITE_41.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "date-night",
+        "rosalind",
+        "sale",
+        "set",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Black set",
+      "notes": "Shopify product / handle rosalind-maxi-dress-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-rosalind-maxi-dress-ruby",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/FOTOSSITE_43.png",
+      "category": "product",
+      "tags": [
+        "date-night",
+        "red",
+        "rosalind",
+        "sale",
+        "set",
+        "soiree",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Rosalind in Red set",
+      "notes": "Shopify product / handle rosalind-maxi-dress-ruby",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-midi-dress-black",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/UnlockVIPAccess_79_-topaz-sharpen-face_d2727609-3634-4406-b033-80ce181deaa1.png",
+      "category": "product",
+      "tags": [
+        "black",
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Black midi dress",
+      "notes": "Shopify product / handle selene-midi-dress-black",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-selene-midi-dress-black-1",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/364-topaz-sharpen-face.png",
+      "category": "product",
+      "tags": [
+        "blush pink",
+        "date-night",
+        "dinner",
+        "midi",
+        "midi dress",
+        "prom",
+        "sale",
+        "selene",
+        "wedding"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Selene in Blush Pink midi dress",
+      "notes": "Shopify product / handle selene-midi-dress-black-1",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-porto-fino-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/155.png",
+      "category": "product",
+      "tags": [
+        "black and white",
+        "date-night",
+        "dinner",
+        "porto fino",
+        "sale",
+        "skirt"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Porto Fino in Black and White skirt",
+      "notes": "Shopify product / handle porto-fino-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-terra-diamante-hoop-earrings",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/TerraDiamanteHoopEarrings_2_a7c1de13-7d3b-425e-befc-fc6a1d7adac9.jpg",
+      "category": "product",
+      "tags": [
+        "sale",
+        "silver"
+      ],
+      "width": 1200,
+      "height": 1600,
+      "alt": "Terra Diamante Hoop Earrings in Silver",
+      "notes": "Shopify product / handle terra-diamante-hoop-earrings",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-purnima-round-earrings",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/PurnimaRoundEarrings_3.jpg",
+      "category": "product",
+      "tags": [
+        "gold",
+        "purnima round earrings",
+        "sale"
+      ],
+      "width": 1200,
+      "height": 1600,
+      "alt": "Purnima Round Earrings in Gold",
+      "notes": "Shopify product / handle purnima-round-earrings",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-terra-diamante-hoop-earrings-silver-gold",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/TerraDiamanteHoopEarrings_3_6dd157bc-3224-42e3-acf7-62e1416b785e.jpg",
+      "category": "product",
+      "tags": [
+        "gold",
+        "sale"
+      ],
+      "width": 1200,
+      "height": 1600,
+      "alt": "Terra Diamante Hoop Earrings in Gold",
+      "notes": "Shopify product / handle terra-diamante-hoop-earrings-silver-gold",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-terra-diamante-hoop-earrings-silver-aurora",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/TerraDiamanteHoopEarrings_6.jpg",
+      "category": "product",
+      "tags": [
+        "aurora boreal",
+        "sale"
+      ],
+      "width": 1200,
+      "height": 1600,
+      "alt": "Terra Diamante Hoop Earrings in Aurora Boreal",
+      "notes": "Shopify product / handle terra-diamante-hoop-earrings-silver-aurora",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-valenti-mini-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/27-topaz-sharpen-face-3.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "cocktail",
+        "evening",
+        "mini",
+        "mini dress",
+        "sale",
+        "valentina"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Valentina in Burgundy mini dress",
+      "notes": "Shopify product / handle valenti-mini-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-vanessa-maxi-dress",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/21-topaz-sharpen-face-2.png",
+      "category": "product",
+      "tags": [
+        "burgundy",
+        "cocktail",
+        "date-night",
+        "dinner",
+        "evening",
+        "formal",
+        "gala",
+        "sale",
+        "skirt",
+        "vanessa"
+      ],
+      "width": 3000,
+      "height": 3750,
+      "alt": "Vanessa in Burgundy skirt",
+      "notes": "Shopify product / handle vanessa-maxi-dress",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-azra-earrings-ivory-gold",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/azra-earrings-ivory-gold-accessories-one-size-babyboo-fashion-32362781573183.jpg",
+      "category": "product",
+      "tags": [
+        "aura earrings",
+        "default title",
+        "sale"
+      ],
+      "width": 1000,
+      "height": 1533,
+      "alt": "Aura Earrings in Default Title",
+      "notes": "Shopify product / handle azra-earrings-ivory-gold",
+      "added": "2026-07-09"
+    },
+    {
+      "id": "product-gold-drop-earrings",
+      "path": "",
+      "url": "https://cdn.shopify.com/s/files/1/0709/8653/0973/files/1_1e5b811d-a886-4f06-85f5-7daf95ae5c32.png",
+      "category": "product",
+      "tags": [
+        "golden",
+        "golden drop earrings",
+        "sale"
+      ],
+      "width": 600,
+      "height": 800,
+      "alt": "Golden Drop Earrings in Golden",
+      "notes": "Shopify product / handle gold-drop-earrings",
+      "added": "2026-07-09"
+    }
+  ]
+}
